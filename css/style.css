@@ -1286,6 +1286,10 @@ input[type="text"] {
   background: url(../images/loader.gif) center no-repeat #fff;
 }
 
+.linkColor{
+  color: #805b0ab7;
+}
+
 .js .animate-box {
   opacity: 0;
 }
